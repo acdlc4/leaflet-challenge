@@ -73,7 +73,8 @@ function createMap(earthquakes) {
 
     legend.addTo(map);
 }
-  
+
+//------------------------------------------------------------------------------------------------------------  
   function createMarkers(response) {
   
     // Pull the "features" property from response.
@@ -153,5 +154,6 @@ function createMap(earthquakes) {
 
 }
 
+//------------------------------------------------------------------------------------------------------------
   // Perform an D3 JSON call to the USGS repo to get the earthquake information. Call createMarkers when it completes.
   d3.json(urlWeek).then(createMarkers);
