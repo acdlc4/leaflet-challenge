@@ -161,8 +161,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Ignore MacOS and starter files
+# Ignore MacOS and local starter files
 .DS_Store
 .virtual_documents/
 Offline/
 Starter_Code/
+.vscode/
