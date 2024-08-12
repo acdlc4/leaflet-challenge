@@ -18,7 +18,7 @@ The challenge includes the buildout of a way to visualize USGS data that will al
 - https://github.com/acdlc4/leaflet-challenge-part-2/blob/main/static/js/logic2.js
 
 #### Live Deployment address for Part 2:
-https://acdlc4.github.io/leaflet-challenge-part-2/
+- https://acdlc4.github.io/leaflet-challenge-part-2/
 
 Limitations and other considerations:
 - The color range used for the circle marker fill colors is related to the depth and destruction capability of the event, with red indicating those quakes that are shallow and are more likely to be destructuve and green for those that are deep underground and are less likely to be destructive. (Source: https://quantectum.com/blog/facts-about-earthquakes-depth/)
