@@ -6,7 +6,7 @@ The United States Geological Survey (USGS) is responsible for providing scientif
 
 The challenge includes the buildout of a way to visualize USGS data that will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
-#### Live Deployment address:
+#### Live Deployment address for Part 1:
 - https://acdlc4.github.io/leaflet-challenge/
 
 ![Screen capture of live website](https://github.com/acdlc4/leaflet-challenge/blob/main/static/images/PageDeployment.png)
@@ -15,8 +15,13 @@ The challenge includes the buildout of a way to visualize USGS data that will al
 - https://github.com/acdlc4/leaflet-challenge/blob/main/index.html
 
 #### D3.JS location:
-- https://github.com/acdlc4/leaflet-challenge/blob/main/static/js/app.js
+- https://github.com/acdlc4/leaflet-challenge/blob/main/static/js/logic.js
 
+#### Live Deployment address for Part 2:
+
+Limitations and other considerations:
+- The color range used for the circle marker fill colors is related to the depth and destruction capability of the event, with red indicating those quakes that are shallow and are more likely to be destructuve and green for those that are deep underground and are less likely to be destructive. (Source: https://quantectum.com/blog/facts-about-earthquakes-depth/)
+- Data obtained for the tectonic plates was obtained from https://github.com/fraxen/tectonicplates
 
 ##
 Any questions?
