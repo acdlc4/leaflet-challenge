@@ -56,7 +56,7 @@ function createMap(earthquakes) {
                                   "#F66066"; //red
     }
 
-    //Legend building based on code from https://leafletjs.com/examples/choropleth/#custom-legend-control
+    //Legend built based on code from https://leafletjs.com/examples/choropleth/#custom-legend-control
     var legend = L.control({position: 'bottomright'});
 
     legend.onAdd = function (map) {
@@ -108,7 +108,7 @@ function createMap(earthquakes) {
       // For each earthquake, create a marker, and bind a popup with the earthquake's place and magnitude.      
         //Function to set marker size for given earthquake instance
       function markerSize(magnitude) {
-        return magnitude * 20000;
+        return magnitude * 25000;
       }
 
         //Filter to set fillColor for given earthquake instance based on depth. See notes after 'Add legend' above.
