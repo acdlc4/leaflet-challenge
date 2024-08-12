@@ -9,7 +9,7 @@ The challenge includes the buildout of a way to visualize USGS data that will al
 #### Live Deployment address for Part 1:
 - https://acdlc4.github.io/leaflet-challenge/
 
-![Screen capture of live website](https://github.com/acdlc4/leaflet-challenge/blob/main/static/images/PageDeployment.png)
+![Screen capture of live website](https://github.com/acdlc4/leaflet-challenge/blob/main/Images/PageDeployment.png)
 
 #### HTML code location:
 - https://github.com/acdlc4/leaflet-challenge/blob/main/index.html
