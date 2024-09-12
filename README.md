@@ -12,10 +12,10 @@ The challenge includes the buildout of a way to visualize USGS data that will al
 ![Screen capture of live website](https://github.com/acdlc4/leaflet-challenge/blob/main/Images/PageDeployment.png)
 
 #### HTML code location:
-- https://github.com/acdlc4/leaflet-challenge/blob/main/index.html
+- https://github.com/acdlc4/leaflet-challenge/blob/main/Leaflet-Part-1/index.html
 
 #### D3.JS location:
-- https://github.com/acdlc4/leaflet-challenge/blob/main/static/js/logic.js
+- https://github.com/acdlc4/leaflet-challenge/blob/main/Leaflet-Part-1/static/js/logic.js
 
 #### Live Deployment address for Part 2:
 - https://acdlc4.github.io/leaflet-challenge-part-2/
